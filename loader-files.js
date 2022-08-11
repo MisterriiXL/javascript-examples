@@ -1,3 +1,5 @@
+//https://misterriixl.github.io/2022/08/10/multiples-archivos-javascript/
+
 export class Loader {
   constructor(files = []) {
     this.files = files;
